@@ -1,0 +1,47 @@
+/*
+Theme Name: CodeLab - Software
+Theme URI: https://willyandeveloper.com.br/codeLab
+Author: Willyan Marques
+Author URI: https://willyandeveloper.com.br
+Description: Tema criado no curso de Wordpress com Bootstrap.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Tecnologia, Sites, Sistemas, Web, Developer,
+Text Domain: CodeLab - Quality Software
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+/*IMPORTACAO DE FONTE*/
+
+@font-face {
+    font-family: FAFERS;
+    src: url(font/FAFERS.ttf);
+}
+
+#about {background-color: #243745;}
+#btnSaibaMais {background-color: #FFF; color: #303841;}
+#hr{ border-color: #FFF;}
+#mainNav{background-color: #EEEEEE;}
+#barraMenu {background-color: #3F72AF;}
+#iconServicos {color:#3F72AF;}
+#hr_servico {border-color: #3F72AF;}
+#nomeIntegrante, #nomePapel{text-align: center;}
+#nomeIntegrante{font-weight: bold;}
+#nomePapel{color: #bbb;}
+#itsMenu li a {color:#47555E;}
+#nomeCode { color:#47555E; text-transform: none; font-size: 20px; font-weight: normal;}
+#nomeLab {color: #3F72AF; text-transform: none; font-size: 20px;}
+#bs-example-navbar-collapse-1 ul li a {color: #47555E;}
+#bs-example-navbar-collapse-1 ul li a:hover {color: #3F72AF;}
+#produtos {background-color: #FFF;}
+#hr_produtos {border-color: #3F72AF;}
+#hr_time {border-color: #3F72AF;}
+#hr_clientes {border-color: #3F72AF;}
+#btnSaibaMaisProduto {background-color: #3F72AF;}
+
+
